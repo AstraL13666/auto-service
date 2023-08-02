@@ -1,1 +1,1 @@
-from .chat import register_message_handlers
+from .chat import r, callback_router

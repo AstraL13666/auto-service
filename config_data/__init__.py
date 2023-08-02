@@ -1,1 +1,1 @@
-from .config import dp, bot, LinkID
+from .config import dp, bot

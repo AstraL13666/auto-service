@@ -1,1 +1,2 @@
-from .standart_command import register_message_handlers
+from .private import r
+from .callback import callback_router
